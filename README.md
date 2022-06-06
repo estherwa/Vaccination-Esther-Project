@@ -47,10 +47,10 @@ At last we have to run the server: python manage.py runserver
 
 
     
-    ![Form](assets/images/im1.png)
-    ![Form](assets/images/im2.png)
-    ![Table](assets/images/im3.png)
-    ![Table](assets/images/im4.png)
+    ![Form](/assets/images/im1.png)
+    ![Form](/assets/images/im2.png)
+    ![Table](/assets/images/im3.png)
+    ![Table](/assets/images/im4.png)
 
 
 ## Credits
@@ -68,6 +68,12 @@ https://www.youtube.com/watch?v=Pwwz4_AvHDU
 ## Features
 
 Export to excel file (CSV)
+
+React countries in order to obtain a list of all the countries in the whole world.
+
+Fect data to refresh list.
+
+
 
 Framework frontend: React, Node.Js, Bootstrap, MIU, React router,
 
