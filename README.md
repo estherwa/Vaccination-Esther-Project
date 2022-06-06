@@ -43,14 +43,10 @@ At last we have to run the server: python manage.py runserver
 
 
 ## Usage
-
-
-
-    
-    ![Form](/assets/images/im1.png)
-    ![Form](/assets/images/im2.png)
-    ![Table](/assets/images/im3.png)
-    ![Table](/assets/images/im4.png)
+![formExample](/assets/images/im1.png)
+![FormExample](/assets/images/im2.png)
+![TableExample](/assets/images/im3.png)
+![TableExample](/assets/images/im4.png)
 
 
 ## Credits
@@ -77,9 +73,12 @@ Fect data to refresh list.
 
 Framework frontend: React, Node.Js, Bootstrap, MIU, React router,
 
-Framework Backend:  Django , psycopg2( npi install psycopg2), djangorestf (pip install djangorestframework),Django-cors-headers(python -m pip install django-cors-headers), asgiref, Whell, python-sqlparse - Parse SQL statements, pytz - World Timezone Definitions for Python, setupstools
+Framework Backend:  
+•Django 
+•Psycopg2( npi install psycopg2)
+• Djangorestf (pip install djangorestframework)
+• Django-cors-headers(python -m pip install django-cors-headers)
+• Asgiref, Whell, python-sqlparse - Parse SQL statements
+• pytz - World Timezone Definitions for Python, setupstools
 
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
