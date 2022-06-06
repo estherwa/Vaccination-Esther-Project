@@ -2,6 +2,7 @@ import {useEffect, useState} from "react";
 import axios from 'axios';
 import {DataGrid} from '@mui/x-data-grid';
 import {Button} from "@mui/material";
+import CSVLink from "react-csv/src/components/Link";
 
 const url = 'http://127.0.0.1:8000/patient'
 
@@ -64,5 +65,9 @@ export default function Table(props) {
         {isError && <div>Something has gone wrong ...</div>}
             <br></br>
         <Button onClick={fetchData}  class="button button2">Refresh the table</Button>
+
+        <CSVLink data={Object.values(data)} filename={'patients.csv'}>
+            <Button>Here you can download in csvfuck</Button>
+        </CSVLink>
     </>)
 }
