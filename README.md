@@ -46,12 +46,12 @@ At last we have to run the server: python manage.py runserver
 
 
 
-    ```md
-    ![alt text](assets/images/im1.png)
-    ![alt text](assets/images/im2.png)
-    ![alt text](assets/images/im3.png)
-    ![alt text](assets/images/im4.png)
-    ```
+    
+    ![Form](assets/images/im1.png)
+    ![Form](assets/images/im2.png)
+    ![Table](assets/images/im3.png)
+    ![Table](assets/images/im4.png)
+
 
 ## Credits
 
