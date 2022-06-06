@@ -43,9 +43,9 @@ At last we have to run the server: python manage.py runserver
 
 
 ## Usage
-![formExample](/assets/images/im1.png)
 ![FormExample](/assets/images/im2.png)
 ![TableExample](/assets/images/im3.png)
+![formExample](/assets/images/im1.png)
 ![TableExample](/assets/images/im4.png)
 
 
